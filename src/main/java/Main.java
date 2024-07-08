@@ -1,10 +1,10 @@
-import singleton.User;
+import singleton.Config;
 
 public class Main {
 
 
     public static void main(String[] args) {
-        User user = User.getUser();
-        System.out.println(user.name);
+        Config config = Config.getUser();
+        System.out.println(config.someInfo);
     }
 }
