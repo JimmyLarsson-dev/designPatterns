@@ -48,7 +48,8 @@ The repository is organized into folders, each corresponding to a different desi
 
       git clone https://github.com/JimmyLarsson-dev/designPattern.git
 
-      Contribution
+      
+<h2>Contribution</h2>
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
