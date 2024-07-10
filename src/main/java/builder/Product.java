@@ -1,9 +1,9 @@
 package builder;
 
 public class Product {
-    private String name;
-    private String description;
-    private int price;
+    private final String name;
+    private final String description;
+    private final int price;
 
     public Product(ProductBuilder builder) {
         this.name = builder.name;
